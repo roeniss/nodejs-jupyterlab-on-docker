@@ -11,6 +11,6 @@ RUN apt install -y nodejs
 RUN npm install -g --unsafe-perm ijavascript
 RUN ijsinstall --install=global
 
-CMD jupyter lab --port=8888 --ip=0.0.0.0 --allow-root --notebook_dir=/root/jupyter-lab/ 
+CMD jupyter lab --port=8888 --ip=0.0.0.0 --allow-root 
 
 EXPOSE 8888
