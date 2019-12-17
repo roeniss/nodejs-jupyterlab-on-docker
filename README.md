@@ -2,7 +2,7 @@
 
 ## What is this ?
 
-This is Dockerfile which deploy a jupyterlab container that have nodeJS (ijavascript) kernal.
+This is Dockerfile which deploy a jupyterlab container that have nodeJS (ijavascript) kernel.
 
 ## Why made this ?
 
