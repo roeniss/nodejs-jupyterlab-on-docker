@@ -8,8 +8,6 @@ RUN pip3 install jupyterlab
 RUN curl -sL https://deb.nodesource.com/setup_13.x | bash -
 RUN apt install -y nodejs
 
-#RUN apt install -y jupyter-notebook
-# RUN npm config set prefix $HOME
 RUN npm install -g --unsafe-perm ijavascript
 RUN ijsinstall --install=global
 
