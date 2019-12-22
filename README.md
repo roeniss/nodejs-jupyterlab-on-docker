@@ -4,7 +4,7 @@
 
 This is Dockerfile which deploy a jupyterlab container that have nodeJS (ijavascript) kernel.
 
-![screenshot](./screenshot/capture.png)
+![screenshot](https://github.com/roeniss/nodejs-jupyterlab-on-docker/blob/master/screenshot/capture.png?raw=true)
 
 ## Why made this ?
 
